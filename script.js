@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'matuto.mp3', legenda:'Matuto de verdade'},
-    {caminho:'Arash.mp3', legenda:'Arash'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Hayit.mp3', legenda:'Hayit'},
-    {caminho:'Helena.mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'aliança.mp3', legenda:'Aliança-Tribalistas'},
+    {caminho:'diewithasmile.mp3', legenda:'Dia-With-A-Smile'},
+    {caminho:'experience.mp3', legenda:'experience'},
+    {caminho:'foreveryoung.mp3', legenda:'forever-young'},
+    {caminho:'neverenough.mp3', legenda:'neverenough'},
+    {caminho:'shallow.mp3', legenda:'shallow'},
+    {caminho:'tempo-perdido.mp3', legenda:'tempo-perdido'},
+    {caminho:'wildflower', legenda:'wildflower'},
+    {caminho:'justgivemeareason.mp3', legenda:'just-give-me-a-reason'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
