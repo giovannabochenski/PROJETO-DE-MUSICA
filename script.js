@@ -5,8 +5,8 @@ let audios = [
     {caminho:'foreveryoung.mp3', legenda:'forever-young'},
     {caminho:'neverenough.mp3', legenda:'neverenough'},
     {caminho:'shallow.mp3', legenda:'shallow'},
-    {caminho:'tempo-perdido.mp3', legenda:'tempo-perdido'},
-    {caminho:'wildflower', legenda:'wildflower'},
+    {caminho:'tempoperdido.mp3', legenda:'tempo-perdido'},
+    {caminho:'wildflower.mp3', legenda:'wildflower'},
     {caminho:'justgivemeareason.mp3', legenda:'just-give-me-a-reason'},
 ];
 
