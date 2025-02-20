@@ -19,7 +19,7 @@ img {
 }
 
 h1 {
-    color: #dd0d98;
+    color: #0a0007;
     filter: drop-shadow(0 0 10px #fffdef);
 }
 
@@ -27,8 +27,8 @@ p {
     color: #091007;
 }
 .botao {
-    width: 60px;
-    height: 60px;
+    width: 150px;
+    height: 150px;
 }
 
 .container {
