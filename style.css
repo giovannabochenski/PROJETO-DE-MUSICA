@@ -72,7 +72,7 @@ footer p {
   font-size: 14px;
   text-transform: uppercase;
 
-  background: linear-gradient(45deg, #638ED1, #ff0000, #009688,#44E3D3);
+  background: linear-gradient(45deg, #70104b, #a71293, #fa30f0,#ff60f2);
   background-size: 400% 100%;
   animation: degrade 10s linear infinite alternate;
 
@@ -93,7 +93,7 @@ footer p {
 
 p{
   font-size: 16px;
-  color: green;
+  color: rgb(116, 24, 103);
 }
 
 .texto{
